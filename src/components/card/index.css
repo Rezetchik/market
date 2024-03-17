@@ -1,0 +1,18 @@
+.Card-cell {
+  white-space: normal !important;
+}
+
+.Card-point {
+  display: block;
+  padding: 10px;
+}
+
+.Card-footer {
+  display: flex;
+  white-space: normal !important;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 10px;
+}

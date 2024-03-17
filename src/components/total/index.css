@@ -1,0 +1,9 @@
+.Counter {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.Counter button {
+  margin: 0 10px;
+}
